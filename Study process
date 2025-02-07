@@ -1,0 +1,6 @@
+LangChain is a framework for developing end-to-end端到端 applications powered by large language models
+LangChain 是一个由大型语言模型驱动的端到端应用程序开发框架
+旨在帮助开发这类应用程序：基于文档数据的问答、聊天机器人、代理；LangChain作为一个开源框架，提供与OpenAi等语言模型的接口，简化了应用程序利用语言模型的过程
+
+第一个LangChain应用程序（使用Google Colab在运行python代码）
+
